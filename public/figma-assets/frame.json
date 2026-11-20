@@ -8,8 +8,8 @@
     "width": 1440,
     "height": 2568
   },
-  "selection": "container-first",
-  "requestedNodeId": "0:1",
-  "requestedNodeType": "CANVAS",
+  "selection": "explicit",
+  "requestedNodeId": "2:2",
+  "requestedNodeType": "FRAME",
   "sourceVersion": "2423947858723013178"
 }
