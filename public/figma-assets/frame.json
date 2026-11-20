@@ -1,0 +1,15 @@
+{
+  "id": "2:2",
+  "name": "Little Wonder — Toy shop",
+  "page": "Page 1",
+  "bounds": {
+    "x": -720,
+    "y": -515,
+    "width": 1440,
+    "height": 2568
+  },
+  "selection": "container-first",
+  "requestedNodeId": "0:1",
+  "requestedNodeType": "CANVAS",
+  "sourceVersion": "2423947858723013178"
+}
